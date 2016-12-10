@@ -2,19 +2,19 @@
 baseurl = "http://wfernandes.cfapps.io/"
 themesDir = "./themes"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "Warren's Simple Blog"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "spf13"
+disqusShortname = ""
 
 [params]
-	name = "John Doe"
-	description = "Describe your website"
-	bio = "Blogger - Programmer - Gopher"
+	name = "Warren Fernandes"
+	description = "I'm not sure what I want to blog about..."
+	bio = "Blogger - Engineer - Gopher"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "warren_ff"
 	enableRSS = true
 
 	# Add custom assets with their paths relative to the static folder
@@ -34,11 +34,11 @@ disqusShortname = "spf13"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "I'm an enthusiastic engineer who likes to solve meaningful problems."
 	tweet = ""
 	share = ""
 	# 404 page
-	title404 = ""
+	title404 = "Oopsy Daisy..."
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
@@ -48,7 +48,6 @@ disqusShortname = "spf13"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/warren_ff"
+    facebook = "https://www.facebook.com/warren.f.fernandes"
+    github   = "https://www.github.com/wfernandes"
