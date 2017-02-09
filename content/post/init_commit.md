@@ -21,6 +21,6 @@ reasons like
 and actually contribute to society.
 
 Maybe this will turn out to be something more and actually helps whoever
-stumblesupon this blog
+stumbles upon this blog
 
 If you'd like to know a little about me check out the [About](/about) page.
