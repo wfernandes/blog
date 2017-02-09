@@ -2,7 +2,8 @@ Simple Blog
 ===========
 
 ### Website
-The website can be located at wfernandes.cfapps.io
+The website can be located at
+[wfernandes.cfapps.io](http://wfernandes.cfapps.io)
 
 ### Deployment
 ```bash
