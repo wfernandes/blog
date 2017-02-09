@@ -1,7 +1,6 @@
 +++
 date = "2017-02-08"
 title = "About"
-weight: 10
 +++
 
 ## whoami
