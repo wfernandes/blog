@@ -1,5 +1,6 @@
 # Site settings
-baseURL = "https://example.com/"
+baseURL = "https://wfernandes.github.io/"
+publishDir = "wfernandes.github.io"
 # include content marked as draft
 buildDrafts = false
 # include content with publishdate in the future
