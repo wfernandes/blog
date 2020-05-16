@@ -1,8 +1,8 @@
-Simple Blog
+Landing Page SIte
 ===========
 
 ### Website
-The website can be located at [wfernandes.github.io][site]
+The website can be located at [wfernandes.github.io][website]
 
 
 ### Notes
@@ -22,4 +22,4 @@ The website can be located at [wfernandes.github.io][site]
 ```
 
 
-[site]: https://wfernandes.github.io
+[website]: https://wfernandes.github.io
