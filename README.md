@@ -2,7 +2,7 @@ Landing Page SIte
 ===========
 
 ### Website
-The website can be located at [wfernandes.github.io][website]
+The website can be located at [wfernandes.github.io][site]
 
 
 ### Notes
@@ -19,7 +19,5 @@ The website can be located at [wfernandes.github.io][website]
 1. `cd wfernandes.github.io`
 1. `git add . && git commit -m "Update" && git push`
 1. Don't forget to do the above step in this repository as well.
-```
 
-
-[website]: https://wfernandes.github.io
+[site]: https://wfernandes.github.io
